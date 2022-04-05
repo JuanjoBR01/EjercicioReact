@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Sevillana&display=swap");
+
+.navBar {
+  background-color: grey;
+}
+
+.banner {
+  font-family: "Sevillana", cursive;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2rem;
+  padding: 15px 15px 15px 0px;
+}
+
+.barritaMuseos{
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 1.5rem;
+    padding: 15px 15px 15px 0px;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+}
+
+.barrita{
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 1.5rem;
+    padding: 15px 15px 15px 0px;
+}
+
+.test {
+  padding-left: 250px;
+}
+
+.rel {
+  width: 178px;
+  height: 143px;
+  left: 204px;
+  top: 333px;
+  padding-left: 44px;
+  padding-top: 30px;
+  padding-right: 44px;
+}
+
+.name {
+  text-align: center;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 38px;
+}
+
+.city {
+  text-align: center;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+}
+
+#secret {
+  color: white;
+}
